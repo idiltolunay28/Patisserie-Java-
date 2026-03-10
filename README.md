@@ -1,2 +1,2 @@
 # Cafe-Simulator
-Bil 211 dersinden edindiğim tecrübelerle atıldığım küçük bir oyun projesi.
+Java ile geliştirilmiş bir "Cafe Simulator" (Yapım Aşamasında)
